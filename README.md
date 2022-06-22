@@ -17,8 +17,6 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-## Top Languages
+## Top Languages ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1xa4kala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Github Stats
 [![Mikl's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1xa4kala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
